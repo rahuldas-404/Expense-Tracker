@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Expense Tracker</string>
+    <string name="_120">$120</string>
+    <string name="total_balance">Total Balance</string>
 </resources>
